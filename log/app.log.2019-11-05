@@ -1,0 +1,3 @@
+ERROR: [2019 11월 05 17:07:06] com.wjkil.myapp.LogTestBasic - Oh, NO!!
+WARN : [2019 11월 05 17:07:06] com.wjkil.myapp.LogTestBasic - watch out this number and person 2019, SON!
+INFO : [2019 11월 05 17:07:06] com.wjkil.myapp.LogTestBasic - hello! slf4j log!!
